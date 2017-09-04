@@ -1,0 +1,9 @@
+com/spring/service/repos/CustomerRepository.class
+com/spring/service/repos/ReadingListRepository.class
+com/spring/service/controllers/CustomerController.class
+com/spring/service/services/Sender.class
+com/spring/service/SpringBootMicroserviceApplication.class
+com/spring/service/services/CustomerService.class
+com/spring/service/controllers/HealthController.class
+com/spring/service/models/Customer.class
+com/spring/service/models/Book.class
